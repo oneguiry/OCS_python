@@ -4,7 +4,7 @@ import numpy as np
 
 
 def main():
-    _init_weights()
-
+    weights2 = np.random.rand(4, 1)
+    print(weights2)
 
 main()
